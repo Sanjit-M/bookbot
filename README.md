@@ -1,3 +1,3 @@
 # bookbot
 
-BookBot is my first [Boot.dev](https://www.boot.dev) project!
+CLI Application that analyzes text file and releases word/character counts via order. Python Dictionaries practice.
